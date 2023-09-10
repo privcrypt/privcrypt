@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(0, 0, 0);
+    animation: bgcolor 10s infinite;
+}
+
+@keyframes bgcolor {
+
+    0%{
+        background-color: black;
+    }
+    50%{
+        background-color: white;
+    }
+ 100%{
+     background-color: black;
+ }
+}
+.title{
+    align-items: center;
+    text-align: center;
+    color: rgb(234, 234, 234);
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 11px;
+    animation: titlecolor 10s infinite;
+}
+
+@keyframes titlecolor{
+    0%
+    {
+        color:white;
+        letter-spacing: 11px;
+    }
+    50%{
+        color: rgb(129, 129, 74);
+        letter-spacing: 20px;
+    }
+    100%{
+        color: white;
+        letter-spacing: 11px;
+    }
+}

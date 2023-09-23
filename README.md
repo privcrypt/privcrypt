@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Hey right now buliding content creation database in yt.
 
-once done [(i mean when i am done with creations (hidden internal words))]start web project under privcrypt to sell/share music.
+once done [(i mean when i am done with creations (hidden internal words))]start web project [lookslike i am trying to order someone(me)]under privcrypt to sell/share music.
 
 content audio can be found on 
 

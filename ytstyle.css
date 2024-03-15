@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(230, 184, 201);
+    overflow-x: hidden;
+    animation: colors 10s infinite;
+}
+@keyframes colors {
+    0%{
+        background-color: rgb(230, 184, 201);
+    }
+    50%{
+        background-color: rgb(235, 137, 171);
+
+    }
+    100%{
+        background-color: rgb(230, 184, 201);
+
+    }
+}
+.playlists{
+    width: 100%;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    font-size: larger;
+    text-align: center;
+}
+.playlists a{
+    text-decoration: none;
+}
+.backbutton a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
+.backbutton a:hover{
+    color: aliceblue;
+}

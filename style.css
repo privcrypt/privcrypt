@@ -1,11 +1,11 @@
 
 body{
-    background-color: rgb(234, 127, 173);
+    background-color: rgb(255, 255, 255);
     overflow-x: hidden;
 }
 .MainHeaderForWebsite{
     overflow: hidden;
-    color: rgb(83, 6, 74);
+    color: rgb(0, 0, 0);
     width: 100%;
     align-items: center;
     text-align: center;
@@ -31,7 +31,7 @@ body{
 }
 /* Resonse Width Changer or Mod Your needs for devicewise */
 .MainHeaderForWebsite:hover{
-color: rgb(59, 193, 193);
+color: rgb(164, 207, 207);
 }
 .Navigationforwebsite{
     display: flex;
